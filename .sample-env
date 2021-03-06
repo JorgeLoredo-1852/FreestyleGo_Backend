@@ -1,0 +1,6 @@
+NODE_ENV = development
+PORT = 3001
+DB_NAME = FreestyleGo
+DATABASE= 
+USER =
+PASSWORD = 
